@@ -18,7 +18,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dart_eval: ^0.6.1
+  dart_eval:
+    git: https://github.com/emmanuellmota/dart_eval.git
   path_provider: ^2.0.11
   http: ^1.0.0
 
